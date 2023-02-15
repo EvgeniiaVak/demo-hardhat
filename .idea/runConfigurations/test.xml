@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test" type="HardhatRunConfiguration">
+    <option name="arguments" value="test" />
+    <option name="configFile" value="$PROJECT_DIR$/hardhat.config.ts" />
+    <option name="interpreterRef" value="project" />
+    <method v="2" />
+  </configuration>
+</component>
